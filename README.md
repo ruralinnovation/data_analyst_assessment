@@ -1,5 +1,6 @@
 # RISI Data Analyst Assessment
 
+This assessment is intended to help us gauge your skills in programming, data analysis, and data communication. The data comes from the [CDC WONDER](https://wonder.cdc.gov/) database and comprises information on suicides by age group, year group, and [American Communities Project (ACP) community type](https://www.americancommunities.org/).
 
 ## Process
 
