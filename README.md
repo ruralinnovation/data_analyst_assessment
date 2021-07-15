@@ -3,7 +3,7 @@
 The intention of this exercise is to assess your ability to think critically and apply your technical skill set to an analytics problem designed to reflect some of the tasks you are likely to encounter as a Data Analyst at RISI, albeit in a simplified manner. This exercise is deliberately vague and no specific approach or answer is “right”. 
 
 ### Instructions
-Write a short, data-driven analysis of the data provided in this Github repository. The data originates from the CDC WONDER database and comprises information on suicides by age group, year group, and American Communities Project (ACP) region typology.
+Write a short, data-driven analysis of the data provided in this Github repository. The data originates from the [CDC WONDER](https://wonder.cdc.gov/) database and comprises information on suicides by age group, year group, and [American Communities Project (ACP)](https://www.americancommunities.org/) region typology.
 
 ### Required steps:
 - Clone the Github repository.
