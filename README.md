@@ -20,11 +20,11 @@ We should be able to re-run your analysis and duplicate your results with whatev
 With that said, this task will take some time. If you need more time or cannot complete all components of the exercise please contact us and we can make accommodations; certain skills may be more important to demonstrate than others based on experience.
 
 ### Dos
-1.  Do use scripts whenever possible
+1. Do ask questions 
 2. Do use code efficiently and comment clearly
 3. Do review your work and minimize the occurrence of errors
 4. Do include checks and data diagnostics within your code.
-5. Do ask questions
+5. Do use scripts whenever possible
 
 ### Don’ts
 1.  Don’t use spreadsheets in this exercise; doing tabulations in a spreadsheet is fine but no part of your analysis should rely on them.
